@@ -1,1 +1,2 @@
 # Fadatech
+python fundamentals
